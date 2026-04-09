@@ -4,5 +4,5 @@
 2. add this line 
 ```
 See rules:
-https://github.com/your-org/engineering-docs/tree/main/agents/rules
+https://github.com/Anparasan3/agent-guidelines/tree/master/agents/rules
 ```
