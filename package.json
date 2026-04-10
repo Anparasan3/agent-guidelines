@@ -18,5 +18,8 @@
   ],
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
+  },
+  "dependencies": {
+    "@anparasan3/agent-guidelines": "^0.1.0-main.1"
   }
 }

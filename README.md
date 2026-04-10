@@ -24,6 +24,17 @@ Install from GitHub Packages:
 npm install @anparasan3/agent-guidelines --registry=https://npm.pkg.github.com
 ```
 
+Or configure `.npmrc` first and then install normally:
+
+```ini
+@anparasan3:registry=https://npm.pkg.github.com
+//npm.pkg.github.com/:_authToken=${GITHUB_TOKEN}
+```
+
+```sh
+npm install @anparasan3/agent-guidelines
+```
+
 Notes:
 
 - The workflow publishes a unique prerelease version for each push using the GitHub Actions run number.
