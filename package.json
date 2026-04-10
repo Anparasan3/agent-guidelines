@@ -1,0 +1,22 @@
+{
+  "name": "@anparasan3/agent-guidelines",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Reusable agent guidelines and rules for AGENTS.md-driven projects.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anparasan3/agent-guidelines.git"
+  },
+  "homepage": "https://github.com/Anparasan3/agent-guidelines#readme",
+  "bugs": {
+    "url": "https://github.com/Anparasan3/agent-guidelines/issues"
+  },
+  "files": [
+    "README.md",
+    "agents"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
